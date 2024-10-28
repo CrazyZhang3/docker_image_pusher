@@ -2,6 +2,7 @@ nginx
 mysql:5.7
 polardbx/polardb-x
 oceanbase/oceanbase-ce
+openjdk:17
 --platform=linux/arm/v7 skoralex/pritunl:1.30.3116.68
 --platform=linux/arm/v7 ixdotai/openvpn
 --platform=linux/arm/v7 redis
