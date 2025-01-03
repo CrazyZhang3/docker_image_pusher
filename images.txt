@@ -1,6 +1,6 @@
 nginx
 mysql:5.7
-homeassistant/amd64-addon-ssh:9.16.0
+--platform=linux/amd64 homeassistant/amd64-addon-ssh:9.16.0
 polardbx/polardb-x
 oceanbase/oceanbase-ce
 openjdk:17
