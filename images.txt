@@ -1,19 +1,7 @@
-nginx
-mysql:5.7
---platform=linux/amd64 homeassistant/amd64-addon-ssh:9.16.0
-polardbx/polardb-x
 oceanbase/oceanbase-ce
 openjdk:17
-cloudflare/cloudflared
---platform=linux/arm/v7 skoralex/pritunl:1.30.3116.68
---platform=linux/arm/v7 ixdotai/openvpn
---platform=linux/arm/v7 redis
---platform=linux/arm/v7 ubuntu:xenial
---platform=linux/arm/v7 beercan1989/arm-mysql
---platform=linux/arm/v7 zoeyvid/cloudflared
+--platform=linux/arm/v7 thingsboard/openjdk17
 
- 
- 
 #支持私库
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 #xhofe/alist:latest
