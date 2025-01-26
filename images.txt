@@ -10,6 +10,7 @@ cloudflare/cloudflared
 --platform=linux/arm/v7 redis
 --platform=linux/arm/v7 ubuntu:xenial
 --platform=linux/arm/v7 beercan1989/arm-mysql
+--platform=linux/arm/v7 cloudflare/cloudflared
  
  
 #支持私库
